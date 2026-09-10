@@ -8,6 +8,7 @@ I believe good software starts with understanding the problem, not just writing 
 I’m particularly interested in software development, web technologies, and artificial intelligence. I value clean, useful work and try to approach every project with curiosity, patience, and a willingness to keep learning.
 
 Skills & Technologies
+
 C · Python · JavaScript · HTML · CSS · SQL · Git · GitHub
 
 My Approach
