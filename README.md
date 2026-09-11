@@ -1,6 +1,6 @@
 Hi, I'm Michael Yonatan 👋
 
-I'm a Computer Science student and developer from Ethiopia who enjoys turning ideas into practical solutions. I’m curious about how technology works and constantly look for better ways to learn, build, and solve problems.
+I'm an online Computer Science student and developer from Ethiopia who enjoys turning ideas into practical solutions. I’m curious about how technology works and constantly look for better ways to learn, build, and solve problems.
 
 About Me
 
